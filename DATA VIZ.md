@@ -1,14 +1,16 @@
-###### MAFD . MARZO 2021 . VIZUALIZACIÓN DE LA INFORMACIÓN
+###### MAFD . MARZO 2021 . VISUALIZACIÓN DE LA INFORMACIÓN
 
 ## DATAVIZ
 
-En esta ventana se abre el recorrido sobre una nueva manera de trabajar con la datos. La reflexión más importante de este curso es comprender la enorme variedad de caminos y herramientas que existen para poder crear un flujo de trabajo que lleven a la vizualización y control de datos.
+En esta ventana se abre el recorrido sobre una nueva manera de trabajar con la datos. La reflexión más importante de este curso es comprender la enorme variedad de caminos y herramientas que existen para poder crear un flujo de trabajo que lleven a la visualización y control de datos.
 
-[VIZUALIZACION EN CV](###CV)
+[VISUALIZACION EN CV](###CV)
 [POSTER](###POSTER)
 [CONTROL DE DATOS EN EXCEL](###EXCEL)
 [MARKDOWN LANGUAGE](###MARKDOWN)
 [MAPPING](###MAPPING)
+[ARDUINO](###ARDUINO)
+[GIT](###GIT)
 
 ___________________________________________________________________
 
@@ -26,7 +28,7 @@ ___________________________________________________________________
 [next](###EXCEL)
 [return tu DATAVIZ](##DATAVIZ)
 
-Los gráficos suelén remplazar a las letras, pero las letras también pueden remplazar a elementos geométricos. Esto usado mucho en posters de publicidad o propoaganda que también expresa el tiempo y espacio de la imágen a exponer.
+Los gráficos suelén remplazar a las letras, pero las letras también pueden remplazar a elementos geométricos. Esto usado mucho en posters de publicidad o propaganda que también expresa el tiempo y espacio de la imágen a exponer.
 
 El primer edifício diagrid, fue construido en 1896, por lo que buscamos una tipografía que se
 relacionara con el momento en el tiempo. La referencia visual es una brim narrow , pero para
@@ -51,7 +53,7 @@ ___________________________________________________________________
 [next](###MAPPING)
 [return tu DATAVIZ](##DATAVIZ)
 
-Para publicr información, se necesita de un lenguaje...no gráfico. Un lenguaje que permita estructurar el contenido y poder hacer de tus datos y su visalización un recorrido. Lenguajes como markdown, que permiten trabajar de una manera más fluida con textos e imágenes que quisieras publicar en la web. Markdown es un lenguaje que simplifica, mas no reemplaza el lenguaje de programación de html para crear contenido.
+Para publicr información, se necesita de un lenguaje...no gráfico. Un lenguaje que permita estructurar el contenido y poder hacer de tus datos y su visualización un recorrido. Lenguajes como markdown, que permiten trabajar de una manera más fluida con textos e imágenes que quisieras publicar en la web. Markdown es un lenguaje que simplifica, mas no reemplaza el lenguaje de programación de html para crear contenido.
 
 ![](https://imgur.com/Umc6PTH.jpg)
 [^1]: Documento trabajado en formato markdown.
@@ -70,6 +72,7 @@ También para los textos en markdown o el orden de tus documentos es importante 
 ___________________________________________________________________
 
 ### MAPPING
+[next](###ARDUINO)
 [return tu DATAVIZ](##DATAVIZ)
 
 La vizualización de datos es una ejercício muy común en la arquitectura para la elaboración de análisis de sitio. Que te permita extraer elementos en particular que ayuden a resolver y conceptualizar los espacios o edifícios. Desde la locación sus alrededores, su superfíce e inclusive las condiciones climáticas del sitio.
@@ -81,10 +84,22 @@ La vizualización de datos es una ejercício muy común en la arquitectura para 
 [^6]: Extracción de datos sobre el context.
 
 ![](https://imgur.com/RGJorLi.jpg)
-[^6]: Vizualización de la zona de confort.
+[^7]: Vizualización de la zona de confort.
 
+-------------------------------------------------------------------
 
+### ARDUINO
+[next](###GIT)
+[return tu DATAVIZ](##DATAVIZ)
 
+Hablamos mucho sobre extraer y manejar datos...dentro de una computadora. Pero también existe la posibilidad de crear tus propias herramientas y estas anexarlas para controlar y jugar con los datos.
+
+![](https://imgur.com/lwNwg58.jpg)
+[^8]: Definición de grasshopper
+
+-------------------------------------------------------------------
+
+### GIT
 
 
 
