@@ -97,9 +97,17 @@ Hablamos mucho sobre extraer y manejar datos...dentro de una computadora. Pero t
 ![](https://imgur.com/lwNwg58.jpg)
 [^8]: Definición de grasshopper
 
+![](https://imgur.com/rhsaFC2.jpg)
+[^9]: Sensores a utilizar
+
+![](https://imgur.com/rhsaFC2.jpg)
+[^10]: Video de ejecución
+
 -------------------------------------------------------------------
 
 ### GIT
+[return tu DATAVIZ](##DATAVIZ)
+
 
 
 
