@@ -8,6 +8,7 @@ En esta ventana se abre el recorrido sobre una nueva manera de trabajar con la d
 [POSTER](###POSTER)
 [CONTROL DE DATOS EN EXCEL](###EXCEL)
 [MARKDOWN LANGUAGE](###MARKDOWN)
+[MAPPING](###MAPPING)
 
 ___________________________________________________________________
 
