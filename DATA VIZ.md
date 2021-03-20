@@ -100,7 +100,7 @@ Hablamos mucho sobre extraer y manejar datos...dentro de una computadora. Pero t
 ![](https://imgur.com/rhsaFC2.jpg)
 [^9]: Sensores a utilizar
 
-![](https://imgur.com/rhsaFC2.jpg)
+![](\[Imgur\](https://imgur.com/zKUDAeR.mp4)
 [^10]: Video de ejecución
 
 -------------------------------------------------------------------
