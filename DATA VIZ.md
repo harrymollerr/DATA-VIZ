@@ -47,6 +47,7 @@ Son la base de todo el trabajo de visualización, ya que es el contenido. Extrae
 ___________________________________________________________________
 
 ### MARKDOWN
+[next](###MAPPING)
 [return tu DATAVIZ](##DATAVIZ)
 
 Para publicr información, se necesita de un lenguaje...no gráfico. Un lenguaje que permita estructurar el contenido y poder hacer de tus datos y su visalización un recorrido. Lenguajes como markdown, que permiten trabajar de una manera más fluida con textos e imágenes que quisieras publicar en la web. Markdown es un lenguaje que simplifica, mas no reemplaza el lenguaje de programación de html para crear contenido.
@@ -64,6 +65,26 @@ También para los textos en markdown o el orden de tus documentos es importante 
 
 ![](https://imgur.com/v7oEZ03.jpg)
 [^4]: Te permite elaborar mapas mentales sobre lo que estas redactando.
+
+___________________________________________________________________
+
+### MAPPING
+[return tu DATAVIZ](##DATAVIZ)
+
+La vizualización de datos es una ejercício muy común en la arquitectura para la elaboración de análisis de sitio. Que te permita extraer elementos en particular que ayuden a resolver y conceptualizar los espacios o edifícios. Desde la locación sus alrededores, su superfíce e inclusive las condiciones climáticas del sitio.
+
+![](https://imgur.com/IMGO5qK.jpg)
+[^5]: Isométrico de la zona explotado por usos.
+
+![](https://imgur.com/Wj2mrZx.jpg)
+[^6]: Extracción de datos sobre el context.
+
+![](https://imgur.com/RGJorLi.jpg)
+[^6]: Vizualización de la zona de confort.
+
+
+
+
 
 
 
