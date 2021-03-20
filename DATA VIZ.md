@@ -108,6 +108,8 @@ Hablamos mucho sobre extraer y manejar datos...dentro de una computadora. Pero t
 ### GIT
 [return tu DATAVIZ](##DATAVIZ)
 
+Una vez explorado las varias opciones, rutas, ejercícios que puedan llevar al trabajo de visualización, llega la etapa de compartir, la etapa de pubicación. Aquí el lenguaje se vuelve extenso y un poco más complicado.
+
 
 
 
