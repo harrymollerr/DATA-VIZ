@@ -11,6 +11,7 @@ En esta ventana se abre el recorrido sobre una nueva manera de trabajar con la d
 [MAPPING](###MAPPING)
 [ARDUINO](###ARDUINO)
 [GIT](###GIT)
+[BYE BYE](###CONCLUSIÓN)
 
 ___________________________________________________________________
 
@@ -106,10 +107,44 @@ Hablamos mucho sobre extraer y manejar datos...dentro de una computadora. Pero t
 -------------------------------------------------------------------
 
 ### GIT
+[next](###CONCLUSIÓN)
 [return tu DATAVIZ](##DATAVIZ)
 
 Una vez explorado las varias opciones, rutas, ejercícios que puedan llevar al trabajo de visualización, llega la etapa de compartir, la etapa de pubicación. Aquí el lenguaje se vuelve extenso y un poco más complicado.
 
+![](https://imgur.com/ut8uIcE.jpg)
+
+El lenguaje html5 es con el que se elabora la página web, hoy ya existen varias maneras de enlazar lo que trabajas en markdown a html5 y publicarlo. 
+
+![](https://imgur.com/I96vX1I.jpg)
+
+Lo importante de esta última sección, misma que se ve visualizada por el trabajo en esta página, es el valor de saber traducir e interpretar lo que uno desarrolla en distintos lenguajes. La eficiencia de trabajar y redactar ya entendiendo la sintaxis del código te permite tener control de como quieres que sea el resultado final.
+
+Si quieren ver el resultado de este ejercicio [Presione aqui](https://harrymollerr.github.io/HarryMAFDhtml5/)
+
+
+-------------------------------------------------------------------
+
+### CONCLUSIÓN
+[return tu DATAVIZ](##DATAVIZ)
+
+Data science, el saber extraer, parsear, controlar y visualizar los datos es una herramienta que hoy abre muchas puertas hacia el futuro. La tendencia de trabajar con la mineria de datos y saber traducirlos a un lenguaje que la mayoría pueda entender es un metodo de expresar y entender las condiciones y circumstancias de lo que pasa en el contexto. Implementar esta información en un modelo paramétrico que ayude a sacar resultados mas precisos y justificados dentro del rubro de modelos controlado por datos. 
+
+
+
+
+
+
+
+
+
+
+
+![](https://imgur.com/d2bSPQH.jpg)
+
+8-bit Cookie Monster les dice "GRACIAS TOTALES!"
+
+página creada por Harry Moller
 
 
 
